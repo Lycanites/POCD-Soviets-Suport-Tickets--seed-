@@ -12,8 +12,8 @@ Nombre del Equipo: Soviets
 
 Integrantes:
 
-- Hernandez Castañeda Andre Alain
-- Rivera Vallejo Axel
+- Persona A: Hernandez Castañeda Andre Alain
+- Persona B: Rivera Vallejo Axel
 
 Tema: Tickets_Soporte
 
