@@ -1,13 +1,7 @@
-Mi primer proyecto de Git.
+Nombre del Equipo: Soviets
 
-Esto es la intro...
+Integrantes: 
+* Hernandez Castañeda Andre Alain
+* Rivera Vallejo Axel
 
-Esto es el proyecto...
-
-Estas son las instrucciones para arreglar, ejecutar, deployear...
-
-Yo soy Andre Alain Hernandez C.
-
-Y hoy 3 de diciembre
-
-Gracias.
+Tema: Tickets_Soporte
