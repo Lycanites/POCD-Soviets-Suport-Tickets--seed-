@@ -6,7 +6,7 @@
 
 # Corregido. Añadido el ".gitignore".
 
-# Ese .venv es de una subcarpeta de prueba llamada "mi-proyecto". El .venv de el repositorio en general no se subio por proteccion automatica de Git-Hub
+# Ese .venv es de una subcarpeta de prueba llamada "mi-proyecto". El .venv de el repositorio en general no se subio por proteccion automatica de Git-Hub. En todo caso, no volvera a pasar
 
 Nombre del Equipo: Soviets
 

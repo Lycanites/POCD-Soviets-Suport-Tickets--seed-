@@ -9,8 +9,5 @@ __pycache__/
 # Configuración de VS Code
 .vscode/
 
-# Archivos de logs
-*.log
-
 # Variables de entorno
 .env
