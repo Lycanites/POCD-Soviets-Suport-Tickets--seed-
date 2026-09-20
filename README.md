@@ -9,30 +9,32 @@ Tickets_Soporte
 
 ## Estructura del repositorio
 
-'''.
+```text
+.
 ├── datos/
 ├── practica1/
-│ ├── src/
-│ └── resultados/
+│   ├── src/
+│   └── resultados/
 ├── practica2/
-│ ├── src/
-│ └── resultados/
+│   ├── src/
+│   └── resultados/
 ├── practica3/
-│ ├── src/
-│ └── resultados/
+│   ├── src/
+│   └── resultados/
 ├── practica4/
-│ ├── src/
-│ └── resultados/
+│   ├── src/
+│   └── resultados/
 ├── practica5/
-│ ├── src/
-│ └── resultados/
+│   ├── src/
+│   └── resultados/
 ├── practica6/
-│ ├── src/
-│ └── resultados/
+│   ├── src/
+│   └── resultados/
 └── proyecto/
-├── src/
-├── resultados/
-└── datos/'''
+    ├── src/
+    ├── resultados/
+    └── datos/
+```
 
 # NOTAS DE CORRECCION
 
