@@ -7,6 +7,8 @@
 
 Tickets_Soporte
 
+📦 **Aviso:** ya está disponible su dataset en `datos/` — `tickets_soporte-ruido_100.csv` (para pruebas rápidas) y `tickets_soporte-ruido_100000.csv` (el dataset real para sus prácticas). ¡Ya pueden empezar!
+
 ## Estructura del repositorio
 
 ```text
