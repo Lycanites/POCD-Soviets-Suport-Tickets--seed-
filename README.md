@@ -9,7 +9,7 @@ Tickets_Soporte
 
 ## Estructura del repositorio
 
-.
+'''.
 ├── datos/
 ├── practica1/
 │ ├── src/
@@ -32,7 +32,7 @@ Tickets_Soporte
 └── proyecto/
 ├── src/
 ├── resultados/
-└── datos/
+└── datos/'''
 
 # NOTAS DE CORRECCION
 
