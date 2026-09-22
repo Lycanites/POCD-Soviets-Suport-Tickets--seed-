@@ -77,3 +77,13 @@ Se realizaron las siguientes correcciones:
 > **Corrección realizada y verificada al 19/09/2026 a las 18:00 hrs.**
 
 El archivo `.gitignore` ha sido añadido y se tomarán las medidas necesarias para evitar que los entornos virtuales sean incluidos nuevamente en el control de versiones.
+
+---
+
+## Observaciones del profesor
+
+### 22-sep-2026
+
+**Estatus:** 5/6 de la estructura esperada.
+
+Buen avance: ya completaron `src/` y `resultados/` en `practica2` a `practica6` (antes solo `practica1` estaba completa). Les falta terminar `proyecto/`: crear dentro las carpetas `src/`, `resultados/` y `datos/`.
