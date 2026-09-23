@@ -87,3 +87,9 @@ El archivo `.gitignore` ha sido añadido y se tomarán las medidas necesarias pa
 **Estatus:** 5/6 de la estructura esperada.
 
 Buen avance: ya completaron `src/` y `resultados/` en `practica2` a `practica6` (antes solo `practica1` estaba completa). Les falta terminar `proyecto/`: crear dentro las carpetas `src/`, `resultados/` y `datos/`.
+
+### 23-sep-2026
+
+**Estatus:** 6/6 de la estructura esperada.
+
+¡Felicidades, completaron toda la estructura! Terminaron `proyecto/` con `datos/`, `resultados/` y `src/`.
